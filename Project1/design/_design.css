@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(240, 254, 255)   !important ;
+ }
+ .navbar a:hover{
+     color: red   !important ;
+     border-bottom: 1px solid red   !important ;
+ }
+ .inp_note_form{
+    margin-top: 4%  !important ;
+    display: flex  !important ;
+    flex-direction: column  !important ;
+    width: 40% !important   ;
+ }
+ .inp_note_form h1{
+    margin-bottom: 8%  !important ;
+    text-align: center  !important ;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
